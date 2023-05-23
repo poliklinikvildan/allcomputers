@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Define styles for HTML elements */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h1 {
+  color: #ff0000;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Add more CSS rules as needed */

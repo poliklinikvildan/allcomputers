@@ -1,0 +1,47 @@
+---
+title: "Weather Forecast Weekly"
+author: "POLIKLINIK"
+date: "22/05/2023"
+output:
+  ioslides_presentation:
+    css: "file:///C:/Users/vnciv/Desktop/Coursera/presentation.css"
+    
+---
+
+## Slide 1: Monday (22/05/2023)
+
+
+![presentation] file:///C:/Users/vnciv/Desktop/Coursera/presentation.jpeg {width=50%}
+
+
+Welcome to the Weather Forecast Presentation
+Location: Seattle
+
+---
+
+## Slide 2: Forecast Between (22/05/2023) (28/05/2023)
+
+| Day       | Temperature   | Precipitation | Description     | Wind         | Humidity | UV Index |
+|:----------|:-------------:|:-------------:|:---------------:|:------------:|:--------:|:-------:|
+| Monday    | 64°F / 48°F   | 20%           | Mostly Cloudy   | 8 mph SSW    | 60%      | Moderate |
+| Tuesday   | 65°F / 49°F   | 10%           | Mostly Cloudy   | 6 mph SW     | 60%      | Moderate |
+| Wednesday | 69°F / 51°F   | 10%           | Mostly Sunny    | 10 mph NNW   | 58%      | High     |
+| Thursday  | 74°F / 56°F   | 10%           | Sunny           | 11 mph N     | 57%      | High     |
+| Friday    | 78°F / 56°F   | 10%           | Mostly Sunny    | 8 mph NNW    | 53%      | High     |
+| Saturday  | 73°F / 52°F   | 20%           | Partly Cloudy   | 8 mph SW     | 58%      | High     |
+| Sunday    | 64°F / 50°F   | 10%           | Partly Cloudy   | 7 mph SW     | 65%      | High     |
+
+---
+
+## Slide 3: Weekly Forecast Statistics
+
+### Temperature
+
+- Mean: 68.57°F
+- Range: 48°F - 78°F
+
+### Precipitation
+
+- Mean: 11.43%
+- Range: 10% - 20%
+
